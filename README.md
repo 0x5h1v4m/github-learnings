@@ -42,18 +42,18 @@ _it is the record of change_
 
 ### push
 _to upload local repo content to remote repo_
-> git push origin main"
+> git push origin main
 
 ### types of messages
 
 **untracked**
-_new files that git dosen't yet track_
+<br>_new files that git dosen't yet track_
 
 **modified**
-changed
+<br>changed
 
 **staged**
-_file is added & ready to be committed_
+<br>_file is added & ready to be committed_
 
 **unmodified**
-_unchanged_
+<br>_unchanged_
