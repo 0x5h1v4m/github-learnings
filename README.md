@@ -30,4 +30,4 @@ _cloning a repository on our local machine_
 ### status
 _display state of the code_
 <br>
-> git staus
+> git status
