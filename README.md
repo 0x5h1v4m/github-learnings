@@ -71,3 +71,6 @@ _to upload local repo content to remote repo_
 
 **unmodified**
 <br>_unchanged_
+
+## Workflow
+Github repo > Clone > Changes > Add > Commit > Push
