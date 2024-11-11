@@ -75,6 +75,23 @@ _used to create a new git repo_<br>
 	git diff <-branch name-> 	(to compare commits, branches, files & more)
 	git merge <-branch name->	(to merge 2 branches)
 
+
+### Undoing changes
+
+	case 1 :  staged changes
+
+		git reset <-file name->
+		git reset
+	
+	case 2 : commited changes (for one commit)
+
+		git reset HEAD~1
+	
+	case 3 : commited changes (for many commits)
+
+		git reset <-commit hash->
+		git reset --hard <-commit hash->
+
 ### types of messages for file on IDEs
 
 **untracked**
