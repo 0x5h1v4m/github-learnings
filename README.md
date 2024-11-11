@@ -66,6 +66,11 @@ _used to create a new git repo_<br>
 	git branch -d <-branch name->		(to delete branch)
 
 
+### Merge
+
+	git diff <-branch name-> 	(to compare commits, branches, files & more)
+	git merge <-branch name->	(to merge 2 branches)
+
 ### types of messages for file on IDEs
 
 **untracked**
