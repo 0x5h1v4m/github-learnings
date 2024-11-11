@@ -57,6 +57,14 @@ _used to create a new git repo_<br>
 	git push origin main
 	git push -u origin main (from now on we can use git push itself as we have used set upstream function)
 
+### Branch
+
+	git branch		(to check branch)
+	git branch -M main		(to rename branch)
+	git checkout <-branch name->	(to navigate)
+	git checkout -b <-new branch name->		(to create new branch)
+	git branch -d <-branch name->		(to delete branch)
+
 
 ### types of messages for file on IDEs
 
