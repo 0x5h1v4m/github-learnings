@@ -16,3 +16,7 @@ _Website that allows developers to store and manage their code using git._
  - Can upload your own projects
  - Copy others repositories and make changes to it
 	
+## Configuring Git
+git config --global user.name "My Name"
+git config --global user.email "someone@email.com"
+git config --list
