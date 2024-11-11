@@ -46,6 +46,10 @@ _it is the record of change_
 _to upload local repo content to remote repo_
 > git push origin main
 
+### pull
+_used to fetch and download content from a remote repo and immediately update the local repo to match that content_
+> git pull origin main
+
 ### Init
 _used to create a new git repo_<br>
 
