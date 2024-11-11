@@ -1,1 +1,18 @@
 # github-learnings
+
+## Git
+_Version control system_
+	
+ **Purpose**
+	
+ - track the history of the code
+ - collaborate
+
+## Github
+_Website that allows developers to store and manage their code using git._
+
+ **Purpose**
+	
+ - Can upload your own projects
+ - Copy others repositories and make changes to it
+	
