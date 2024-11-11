@@ -22,6 +22,8 @@ _Website that allows developers to store and manage their code using git._
 - git config --global user.email "someone@email.com"
 - git config --list
 
+## Git Commands
+
 ### clone
 _cloning a repository on our local machine_
 <br>
@@ -44,7 +46,19 @@ _it is the record of change_
 _to upload local repo content to remote repo_
 > git push origin main
 
-### types of messages
+### Init
+<br>_used to create a new git repo_
+
+> git init
+> git remote add origin <- link ->
+> git remote -v (to verify remote)
+> git branch    (to check branch)
+> git branch -M main (to remote branch)
+> git push origin main
+> git push -u origin main (from now on we can use git push itself as we have used set upstream function)
+
+
+### types of messages for file on IDEs
 
 **untracked**
 <br>_new files that git dosen't yet track_
