@@ -108,3 +108,9 @@ _used to create a new git repo_<br>
 
 ## Workflow
 Github repo > Clone > Changes > Add > Commit > Push
+
+### Fork
+
+	Its a new repository that shares code and visibility settings with the original "upstream" repository
+	
+	> Rough copy
